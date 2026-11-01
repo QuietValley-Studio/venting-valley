@@ -1,5 +1,5 @@
 {
-  "version": "1.4.22",
+  "version": "1.4.23",
   "apk": "https://github.com/QuietValley-Studio/venting-valley/releases/latest/download/venting-valley-android.apk",
-  "notes": "下载新版本时实时显示下载进度（百分比），下载情况一目了然"
+  "notes": "「检查更新」双源校验：CDN 缓存滞后不再影响新版本提示；下载新版本时显示实时进度"
 }
