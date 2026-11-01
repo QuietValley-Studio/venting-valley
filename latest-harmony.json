@@ -1,5 +1,5 @@
 {
-  "version": "1.4.21",
-  "notes": "「检查更新」反馈更清晰：检查期间提示一直显示，网络慢时 10 秒后提示稍后再试",
+  "version": "1.4.22",
+  "notes": "下载新版本时实时显示下载进度（百分比），下载情况一目了然",
   "url": "https://github.com/QuietValley-Studio/venting-valley/releases/latest"
 }
