@@ -1,5 +1,5 @@
 {
-  "version": "1.4.20",
-  "notes": "提示信息（Toast）统一改为屏幕顶部显示；保存收款码后不再弹出感谢窗口",
+  "version": "1.4.21",
+  "notes": "「检查更新」反馈更清晰：检查期间提示一直显示，网络慢时 10 秒后提示稍后再试",
   "url": "https://github.com/QuietValley-Studio/venting-valley/releases/latest"
 }
