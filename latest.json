@@ -1,5 +1,5 @@
 {
-  "version": "1.4.21",
+  "version": "1.4.22",
   "apk": "https://github.com/QuietValley-Studio/venting-valley/releases/latest/download/venting-valley-android.apk",
-  "notes": "「检查更新」反馈更清晰：检查期间提示一直显示，网络慢时 10 秒后提示稍后再试；提示信息统一在屏幕顶部；保存收款码后不再弹感谢窗"
+  "notes": "下载新版本时实时显示下载进度（百分比），下载情况一目了然"
 }
