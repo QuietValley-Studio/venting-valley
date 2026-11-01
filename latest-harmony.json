@@ -1,0 +1,5 @@
+{
+  "version": "1.4.19",
+  "notes": "提示信息（Toast）统一改为屏幕顶部显示；保存收款码后不再弹出感谢窗口",
+  "url": "https://github.com/QuietValley-Studio/venting-valley/releases/latest"
+}
