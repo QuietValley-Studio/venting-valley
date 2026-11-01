@@ -1,5 +1,5 @@
 {
-  "version": "1.4.22",
-  "notes": "下载新版本时实时显示下载进度（百分比），下载情况一目了然",
+  "version": "1.4.23",
+  "notes": "「检查更新」双源校验：CDN 缓存滞后不再影响新版本提示；下载新版本时显示实时进度",
   "url": "https://github.com/QuietValley-Studio/venting-valley/releases/latest"
 }
