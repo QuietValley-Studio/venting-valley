@@ -1,5 +1,5 @@
 {
-  "version": "1.4.25",
+  "version": "1.4.28",
   "apk": "https://github.com/QuietValley-Studio/venting-valley/releases/latest/download/venting-valley-android.apk",
-  "notes": "下载进度优化：下载新版本时同时显示百分比和已下载/总大小（如 42%（8.8/21.0 MB））。"
+  "notes": "安卓：修复 Android 15 上键盘把整页顶起、以及键盘稍微遮住「丢进山谷」按钮的问题（按钮随文本框行数动态对齐：3 行及以内靠上、超过靠下）；输入框随内容自动增高，多行时首行顶部不再被裁；恢复发送消息后自动滚动到最底部最新的那条，并修复手动滚动失灵的问题。\n鸿蒙：修复焚烧特效错位、特效期间卡片撑满的问题。\n双端：焚烧特效播放时，卡片内只显示破碎特效与提示文字。"
 }
