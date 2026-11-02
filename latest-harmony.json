@@ -1,5 +1,5 @@
 {
-  "version": "1.4.23",
-  "notes": "「检查更新」双源校验：CDN 缓存滞后不再影响新版本提示；下载新版本时显示实时进度",
+  "version": "1.4.24",
+  "notes": "微信式输入：文本框与「丢进山谷」同行，键盘弹出时输入条直接贴在键盘正上方（下方按钮与底部标签自动收起），不收键盘也能连续发送；点消息列表可收键盘；文本框随内容自动调整高度。",
   "url": "https://github.com/QuietValley-Studio/venting-valley/releases/latest"
 }
