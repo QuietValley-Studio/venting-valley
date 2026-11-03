@@ -1,5 +1,5 @@
 {
-  "version": "1.4.32",
-  "notes": "修复「检查更新」发现新版本后，弹窗按钮无法点击的问题；用户手册同步更新。",
+  "version": "1.4.33",
+  "notes": "「检查更新」接入华为应用市场：上架后优先由市场官方检测新版本，确认后跳转市场详情页完成升级（市场不可用时自动回退原下载页通道）；提示条改为文字大小的轻量样式。",
   "url": "https://github.com/QuietValley-Studio/venting-valley/releases/latest"
 }
