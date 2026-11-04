@@ -1,5 +1,6 @@
 {
   "version": "1.4.34",
   "apk": "https://github.com/QuietValley-Studio/venting-valley/releases/latest/download/venting-valley-android.apk",
+  "mirror": "http://113.45.198.30/dl/venting-valley-android.apk",
   "notes": "修复使用手册开头段落的版本标识不随版本更新的问题；用户手册版本历史同步更新。"
 }

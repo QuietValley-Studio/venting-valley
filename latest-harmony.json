@@ -1,5 +1,6 @@
 {
   "version": "1.4.34",
   "notes": "修复使用手册开头段落的版本标识不随版本更新的问题；用户手册版本历史同步更新。",
-  "url": "https://github.com/QuietValley-Studio/venting-valley/releases/latest"
+  "url": "https://github.com/QuietValley-Studio/venting-valley/releases/latest",
+  "mirror": "http://113.45.198.30/"
 }
