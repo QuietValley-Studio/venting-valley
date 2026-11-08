@@ -1,6 +1,6 @@
 {
-  "version": "1.4.34",
-  "notes": "修复使用手册开头段落的版本标识不随版本更新的问题；用户手册版本历史同步更新。",
+  "version": "1.4.35",
+  "notes": "进入 App 时自动检查一次新版本并弹窗提醒（可更新或继续用旧版，同一版本仅提醒一次）；隐私承诺同步更新。",
   "url": "https://github.com/QuietValley-Studio/venting-valley/releases/latest",
   "mirror": "http://113.45.198.30/"
 }
