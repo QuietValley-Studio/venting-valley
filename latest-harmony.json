@@ -1,6 +1,1 @@
-{
-  "version": "1.4.35",
-  "notes": "进入 App 时自动检查一次新版本并弹窗提醒（可更新或继续用旧版，同一版本仅提醒一次）；隐私承诺同步更新。",
-  "url": "https://github.com/QuietValley-Studio/venting-valley/releases/latest",
-  "mirror": "http://113.45.198.30/"
-}
+{"version":"1.0.0","notes":"发泄山谷首发版。","url":"https://github.com/QuietValley-Studio/venting-valley/releases/tag/v1.0.0","mirror":""}
